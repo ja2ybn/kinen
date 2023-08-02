@@ -2,41 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="148.16669mm"
+   height="152.42474mm"
+   viewBox="0 0 148.16669 152.42474"
    version="1.1"
    id="svg5"
-   sodipodi:docname="menu.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="true"
-     inkscape:zoom="0.45789843"
-     inkscape:cx="400.7439"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1366"
-     inkscape:window-height="699"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid686" />
-  </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
@@ -47,9 +19,8 @@
        id="rect1615" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-31.749995,-58.208334)">
     <rect
        style="fill:#1a5fb4;fill-opacity:0.996689;stroke:#1a5fb4;stroke-width:0;stroke-dasharray:none"
        id="rect790"
@@ -78,8 +49,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';white-space:pre;shape-inside:url(#rect1615);display:inline;fill:#1a5fb4;fill-opacity:0.996078;stroke:#1a5fb4;stroke-width:0;stroke-dasharray:none"><tspan
          x="120"
          y="793.99966"
-         id="tspan1064"><tspan
+         id="tspan1107"><tspan
            style="font-family:'Roboto Light';-inkscape-font-specification:'Roboto Light, '"
-           id="tspan1062">Menu</tspan></tspan></text>
+           id="tspan1105">Menu</tspan></tspan></text>
   </g>
 </svg>
